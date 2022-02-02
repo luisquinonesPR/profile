@@ -1,30 +1,31 @@
 /* Colors and fonts */
 body {
   background-image: url("https://4.bp.blogspot.com/-mnpx94-OIbM/VQbzgNrT_SI/AAAAAAAAGvs/pAFP77_rp1c/s1600/San+Juan+Nights.jpg");
-  color: rgb(221, 214, 214);
+  color: white;
   font-family: 'Padauk', sans-serif;
   font-size: 15px;
   font-weight: lighter;
+  font: bold;
 }
 h1, h2, h3 {
   font-family: 'Padauk', sans-serif;;
 }
 h1 {
-  color: rgb(221, 214, 214);
+  color: white;
   font-size: 32px;
-  font-weight: 30;
+  font-weight: bold;
 }
 h2 {
-  color: rgb(221, 214, 214);
+  color: white;
   font-size: 20px;
   font-weight: lighter;
-  font-weight: 500;
+  font-weight: bold;
 }
 a {
   font-family: 'Padauk', sans-serif;;
   text-decoration: none;
-  color: rgb(212, 189, 189);
-  font-weight: 600;
+  color: whitesmoke;
+  font-weight: bold;
   font-size: 16px;
 }
 a:hover {
@@ -66,7 +67,7 @@ a:hover {
 
   padding-left: 0px;
   font-size: 40px;
-  color: rgb(221, 214, 214);
+  color: orangered;
 }
 
 .list-inline i:hover {
